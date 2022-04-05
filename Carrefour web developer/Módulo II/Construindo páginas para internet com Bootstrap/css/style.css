@@ -1,0 +1,48 @@
+body {
+  background-color: #f0f0f0;
+}
+
+h2 {
+  text-transform: uppercase;
+}
+
+.white-bg {
+  background-color: #fff;
+}
+
+.navbar .navbar-brand {
+  margin: 30px;
+}
+
+section .container-fluid,
+footer .container-fluid {
+  padding: 40px 0;
+}
+
+.margin-bottom {
+  margin-bottom: 30px;
+}
+
+.margin-top {
+  margin-top: 30px;
+}
+
+.image-il {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+#parceiros img {
+  width: 50%;
+  max-width: 200px;
+}
+
+#servicos img {
+  border-radius: 5px;
+}
+
+.footer {
+  font-size: 25px;
+}
