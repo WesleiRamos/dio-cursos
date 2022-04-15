@@ -9,7 +9,7 @@ import { Grid, Skeleton } from 'components/index'
  */
 const getValue = value => {
   return value
-    ? value
+    ? value.toLocaleString('pt-BR')
     : <Skeleton variant="text" width={182} height={25} />
 }
 
