@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Estacionamento</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <template id="entrada-template">
+    <tr>
+      <td class="nome"></td>
+      <td class="placa"></td>
+      <td class="entrada"></td>
+      <td>
+        <button class="excluir">
+          X
+        </button>
+      </td>
+    </tr>
+  </template>
+
+
+	<div class="inputs">
+		<input type="text" id="nome" placeholder="Nome">
+		<input type="text" id="placa" placeholder="Placa">
+		<button id="cadastrar">
+			Cadastrar
+		</button>
+	</div>
+
+	<table>
+		<thead>
+			<tr>
+				<th>Nome</th>
+        <th>Placa</th>
+        <th>Entrada</th>
+        <th>Ação</th>
+			</tr>
+		</thead>
+
+    <tbody id="tabela"></tbody>
+	</table>
+
+	<p id="nada">
+		Não há nada para mostrar aqui.
+	</p>
+
+  <script src="index.js"></script>
+</body>
+</html>
