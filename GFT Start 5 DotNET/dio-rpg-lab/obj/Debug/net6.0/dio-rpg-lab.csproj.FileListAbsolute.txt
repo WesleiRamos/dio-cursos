@@ -1,0 +1,15 @@
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/bin/Debug/net6.0/dio-rpg-lab
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/bin/Debug/net6.0/dio-rpg-lab.deps.json
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/bin/Debug/net6.0/dio-rpg-lab.runtimeconfig.json
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/bin/Debug/net6.0/dio-rpg-lab.dll
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/bin/Debug/net6.0/dio-rpg-lab.pdb
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/obj/Debug/net6.0/dio-rpg-lab.csproj.AssemblyReference.cache
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/obj/Debug/net6.0/dio-rpg-lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/obj/Debug/net6.0/dio-rpg-lab.AssemblyInfoInputs.cache
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/obj/Debug/net6.0/dio-rpg-lab.AssemblyInfo.cs
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/obj/Debug/net6.0/dio-rpg-lab.csproj.CoreCompileInputs.cache
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/obj/Debug/net6.0/dio-rpg-lab.dll
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/obj/Debug/net6.0/refint/dio-rpg-lab.dll
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/obj/Debug/net6.0/dio-rpg-lab.pdb
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/obj/Debug/net6.0/dio-rpg-lab.genruntimeconfig.cache
+/Users/wesleiramos/Documents/dio/dio-rpg-lab/obj/Debug/net6.0/ref/dio-rpg-lab.dll
